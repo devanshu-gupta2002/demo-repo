@@ -10,4 +10,5 @@ int main()
     cin>>n;
     cout<<"your number is"<<n<<endl;
     //comment 
+    //comment 2
 }
